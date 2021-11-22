@@ -1,0 +1,16 @@
+main{
+    margin-top: 25px;
+}
+
+footer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+main h3{
+    color: brown;
+}
+
+main img{
+    border: 10px solid teal;
+}

@@ -1,0 +1,25 @@
+body{
+    background: lightgray;
+    text-align: center;
+    font-family: arial;
+    width: 1100px;
+    margin: 0px auto;
+    border: 5px solid black;
+
+}
+
+nav h3{
+    background: teal;
+}
+
+.menu h3 {
+    font: bold 20px arial;
+}
+.menu a {
+        padding: 25px;
+        font: bold 20px arial;
+}
+
+footer {
+    margin-bottom: 10px;
+}
